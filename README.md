@@ -1,6 +1,8 @@
 # ai-scoring-biglab
 Scripts for Autobiographical Interview (Levine et al., 2002) scoring procedures (semi-automated), for use in large lab settings (30+ scorers, spanning multiple months with regular check-ins). 
 
+Note: see Klus et al., 2025 and associated HuggingFace page for fully automated AI Scoring procedures. 
+
 General steps used in Hennessy et al. studies on music-evoked nostalgia:
 
 Step 1: Data collection (audio recorded)
